@@ -10,100 +10,106 @@
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(2).pdf" style="text-decoration:none;">Exploiting Local Perceptual Models for Topological Map-Building </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(3).pdf" style="text-decoration:none;">Robustness of key features of loop quantum cosmology</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(4).pdf" style="text-decoration:none;">Information is Not Lost in the Evaporation of 2-dimensional Black Holes</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(5).pdf" style="text-decoration:none;">Asymptotics and Hamiltonians in a First order formalism</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(6).pdf" style="text-decoration:none;">The covariant entropy bound and loop quantum cosmology</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(7).pdf" style="text-decoration:none;">Action and Hamiltonians in higher dimensional general relativity: First order framework</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(3).pdf" style="text-decoration:none;">Towards Autonomous Topological Place Detection Using the Extended Voronoi Graph</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(4).pdf" style="text-decoration:none;">Adapting Proposal Distributions for Accurate, Efficient Mobile Robot Localization</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(5).pdf" style="text-decoration:none;">Factoring the Mapping
+Problem: Mobile Robot Map-building in the Hybrid Spatial Semantic Hierarchy</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(6).pdf" style="text-decoration:none;">Creating and Utilizing Symbolic Representations of Spatial Knowledge using Mobile Robots</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(7).pdf" style="text-decoration:none;">Ethical Considerations in
+Artificial Intelligence Courses</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(8).pdf" style="text-decoration:none;"> Quantum Space-times:
-Beyond the Continuum of Minkowski and Einstein </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(9).pdf" style="text-decoration:none;">Loop Quantum Cosmology: An Overview</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(8).pdf" style="text-decoration:none;"> The Constructivist Learning Architecture:
+A Model of Cognitive Development for Robust Autonomous Robots </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(9).pdf" style="text-decoration:none;">Post-Piagetian Constructivism for Grounded Knowledge Acquisition</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(10).pdf" style="text-decoration:none;">Singularity Resolution in Loop Quantum Cosmology: A Brief Overview</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(11).pdf" style="text-decoration:none;">Quantum field theory on a cosmological, quantum space-time</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(12).pdf" style="text-decoration:none;">Loop quantum cosmology of Bianchi I models</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(13).pdf" style="text-decoration:none;">Some surprising implications of background independence in canonical quantum gravity</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(10).pdf" style="text-decoration:none;">VisAGGE: Visible Angle Grid for Glass Environments</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(11).pdf" style="text-decoration:none;">High Performance Control for Graceful Motion of an Intelligent Wheelchair</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(12).pdf" style="text-decoration:none;">A Framework for Planning Comfortable and Customizable Motion of an Assistive Mobile Robot</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(13).pdf" style="text-decoration:none;">A Framework for Characterization and Planning of Safe, Comfortable, and Customizable Motion of Assistive Mobile Robots</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(14).pdf" style="text-decoration:none;">Loop Quantum Cosmology and Spin Foams</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(14).pdf" style="text-decoration:none;">Socially-Aware Navigation Using Topological Maps and Social Norm Learning</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(15).pdf" style="text-decoration:none;">Loop quantum cosmology of Bianchi type II models</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(15).pdf" style="text-decoration:none;">Efficient Search for Correct and Useful
+Topological Maps</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(16).pdf" style="text-decoration:none;">Loop quantum cosmology and slow roll inflation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(16).pdf" style="text-decoration:none;">Topological Mapping and Navigation in Real-World Environments</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(17).pdf" style="text-decoration:none;">Casting Loop Quantum Cosmology in the Spin Foam Paradigm</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(17).pdf" style="text-decoration:none;">Learning and Acting in Peripersonal
+Space: Moving, Reaching, and Grasping</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(18).pdf" style="text-decoration:none;">The Big Bang and the Quantum</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(18).pdf" style="text-decoration:none;">Learning to Reach by Building a Representation of Peri-Personal Space</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(19).pdf" style="text-decoration:none;">Path Integrals and the WKB approximation in Loop Quantum Cosmology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(19).pdf" style="text-decoration:none;">Learning to Grasp by Extending
+the Peri-Personal Space Graph</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(20).pdf" style="text-decoration:none;">Surprises in the Evaporation of 2-dimensional Black Holes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(20).pdf" style="text-decoration:none;">Bootstrap Learning for Place Recognition</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(21).pdf" style="text-decoration:none;">Evaporation of 2-Dimensional Black Holes</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(22).pdf" style="text-decoration:none;">A Hamiltonian Formulation of the BKL Conjecture</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(21).pdf" style="text-decoration:none;">A Robust, Qualitative Method for Robot Spatial Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(22).pdf" style="text-decoration:none;">A Robot Exploration and Mapping Strategy Based on a Semantic Hierarchy of Spatial Representations</a></li> 
  
  
  
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(23).pdf" style="text-decoration:none;">Probability of Inflation in Loop Quantum Cosmology</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(23).pdf" style="text-decoration:none;">Navigation and Mapping in Large Scale Space</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(24).pdf" style="text-decoration:none;">Loop Quantum Cosmology: A Status Report</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(24).pdf" style="text-decoration:none;">Consciousness: Drinking from the Firehose of Experience</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(25).pdf" style="text-decoration:none;">Positive cosmological constant in loop quantum cosmology</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(26).pdf" style="text-decoration:none;">Introduction to Loop Quantum Gravity</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(27).pdf" style="text-decoration:none;">Perturbations in loop quantum cosmology</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(25).pdf" style="text-decoration:none;">Learning from Uninterpreted Experience in the SSH</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(26).pdf" style="text-decoration:none;">Human-like Morality and Ethics for Robots</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(27).pdf" style="text-decoration:none;">The Spatial Semantic Hierarchy</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(28).pdf" style="text-decoration:none;">A Quantum Gravity Extension of the Inflationary Scenario</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(28).pdf" style="text-decoration:none;">Drinking from the firehose of experience</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(29).pdf" style="text-decoration:none;">On the Uniqueness of Kinematics of Loop Quantum Cosmology</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(29).pdf" style="text-decoration:none;">How Can We Trust a Robot?</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(30).pdf" style="text-decoration:none;">An Extension of the Quantum Theory of Cosmological Perturbations to the Planck Era</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(30).pdf" style="text-decoration:none;">An Existing, Ecologically-successful Genus Of Collectively Intelligent Artificial Creatures</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(31).pdf" style="text-decoration:none;">The Astrophysical Multimessenger Observatory Network (AMON)</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(32).pdf" style="text-decoration:none;">The pre-inflationary dynamics of loop quantum cosmology: Confronting quantum gravity with observations</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(31).pdf" style="text-decoration:none;">Modeling Spatial Knowledge</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(32).pdf" style="text-decoration:none;">Bootstrap learning of foundational representations</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(33).pdf" style="text-decoration:none;">Loop Quantum Gravity and the The Planck Regime of Cosmology</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(33).pdf" style="text-decoration:none;">THE SKELETON IN THE COGNITIVE MAP: A Computational and Empirical Exploration</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(34).pdf" style="text-decoration:none;">Dynamical Black Holes: Approach to the Final State</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(34).pdf" style="text-decoration:none;">Toward Bootstrap Learning for Place Recognition</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(35).pdf" style="text-decoration:none;">A new perspective on CP and T violation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(35).pdf" style="text-decoration:none;">Sneaking Up On the Hard Problem of Consciousness</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(36).pdf" style="text-decoration:none;">Time in Fundamental Physics</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(36).pdf" style="text-decoration:none;">Qualitative Modeling and Heterogeneous Control of Global System Behavior</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(37).pdf" style="text-decoration:none;">The Last 50 Years of General Relativity & Gravitation: From GR3 to GR20 Warsaw Conferences</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(38).pdf" style="text-decoration:none;">From General Relativity to Quantum Gravity</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(39).pdf" style="text-decoration:none;">Geometry and Physics of Null Infinity</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(40).pdf" style="text-decoration:none;">Asymptotics with a positive cosmological constant: I. Basic framework</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(41).pdf" style="text-decoration:none;">General Relativity and Gravitation: A Centennial Perspective (1-32)</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(42).pdf" style="text-decoration:none;">General Relativity and Gravitation: A Centennial Perspective(1-80)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(37).pdf" style="text-decoration:none;">Local Metrical and Global Topological Maps
+in the Hybrid Spatial Semantic Hierarchy</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(38).pdf" style="text-decoration:none;">An Intellectual History of the Spatial Semantic Hierarchy</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(39).pdf" style="text-decoration:none;">Perspectives on Ethics of AI: Computer Science</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(40).pdf" style="text-decoration:none;">Representing Knowledge of Large-Scale Space</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(41).pdf" style="text-decoration:none;">Why and How Should Robots Behave Ethically?</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(42).pdf" style="text-decoration:none;">The Skeleton in the Cognitive Map:
+A Computational Hypothesis</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(43).pdf" style="text-decoration:none;">Preferred instantaneous vacuum for linear scalar fields in cosmological space-times</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(44).pdf" style="text-decoration:none;">Unitarity and ultraviolet regularity in cosmology</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(45).pdf" style="text-decoration:none;">Loop quantum cosmology:
-From pre-inflationary dynamics to observations</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(43).pdf" style="text-decoration:none;">Bootstrap Learning of Foundational Representations</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(44).pdf" style="text-decoration:none;">Toward Morality and Ethics for Robots</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(45).pdf" style="text-decoration:none;">Recognizing Human Actions by Attributes</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(46).pdf" style="text-decoration:none;">Viewpoint: Simplicity of Black Holes</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(46).pdf" style="text-decoration:none;">Walk the Talk: Connecting Language, Knowledge, Action in Route Instructions</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(47).pdf" style="text-decoration:none;">Dynamical and Hamiltonian formulation of General Relativity</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(48).pdf" style="text-decoration:none;">Asymptotics with a positive cosmological constant: II. Linear fields on de Sitter space-time</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(47).pdf" style="text-decoration:none;">Following Natural Language Route Instructions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(48).pdf" style="text-decoration:none;">Weakly Supervised Learning of Mid-Level Features with Beta-Bernoulli Process Restricted Boltzmann Machines</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(49).pdf" style="text-decoration:none;">100 Years of General Relativity </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(49).pdf" style="text-decoration:none;">A Bayesian generative model for learning semantic hierarchies</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(50).pdf" style="text-decoration:none;">Generalized effective description of loop quantum cosmology</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(51).pdf" style="text-decoration:none;">Gravitational waves from isolated systems: Surprising consequences of a positive cosmological constant</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(52).pdf" style="text-decoration:none;">Asymptotics with a positive cosmological constant: III. The quadrupole formula</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(50).pdf" style="text-decoration:none;">Structured Recurrent Temporal Restricted Boltzmann Machines</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(51).pdf" style="text-decoration:none;">Learning Hierarchical Linguistic Descriptions of Visual Datasets</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(52).pdf" style="text-decoration:none;">Autonomous Development of a Grounded Object Ontology by a Learning Robot</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(53).pdf" style="text-decoration:none;">Symmetry Reduced Loop Quantum Gravity: A Bird's Eye View</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(53).pdf" style="text-decoration:none;">Using the Topological Skeleton for
+Scalable Global Metrical Map-Building</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(54).pdf" style="text-decoration:none;">Quantum Gravity in the Sky:
-Interplay between fundamental theory and observations </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(54).pdf" style="text-decoration:none;">Bootstrap Learning for Object Discovery </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(55).pdf" style="text-decoration:none;">Initial conditions for cosmological perturbations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(55).pdf" style="text-decoration:none;">Robot Developmental Learning of an Object Ontology Grounded in Sensorimotor Experience</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(56).pdf" style="text-decoration:none;">Phenomenology with 
 fluctuating quantum geometries in loop quantum cosmology </a></li>                              
