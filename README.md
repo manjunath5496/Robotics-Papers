@@ -111,49 +111,47 @@ Scalable Global Metrical Map-Building</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(55).pdf" style="text-decoration:none;">Robot Developmental Learning of an Object Ontology Grounded in Sensorimotor Experience</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(56).pdf" style="text-decoration:none;">Phenomenology with 
-fluctuating quantum geometries in loop quantum cosmology </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(56).pdf" style="text-decoration:none;">The initial development of object knowledge by a learning robot </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(57).pdf" style="text-decoration:none;">The Overview Chapter in
-Loop Quantum Gravity: The First 30 Years</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(57).pdf" style="text-decoration:none;">Learning Distinctions and Rules in a Continuous World through Active Exploration</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(58).pdf" style="text-decoration:none;">Implications of a positive cosmological constant for general relativity</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(59).pdf" style="text-decoration:none;">The kinematical Setup of Quantum Geometry: A Brief Review</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(58).pdf" style="text-decoration:none;">Towards the Application of Reinforcement Learning to Undirected Developmental Learning</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(59).pdf" style="text-decoration:none;">A Comparison of Strategies for Developmental Action Acquisition in QLAP</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(60).pdf" style="text-decoration:none;">On a basic conceptual confusion in gravitational radiation theory </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(60).pdf" style="text-decoration:none;">Learning to Predict the Effects of Actions: Synergy between Rules and Landmarks </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(61).pdf" style="text-decoration:none;">On the ambiguity in the notion of transverse traceless modes of gravitational waves</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(61).pdf" style="text-decoration:none;">Autonomously Learning an Action Hierarchy Using a Learned Qualitative State Representation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(62).pdf" style="text-decoration:none;">Quantum Transfiguration of Kruskal Black Holes</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(62).pdf" style="text-decoration:none;">Autonomous Qualitative Learning of Distinctions and Actions in a Developing Agent</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(63).pdf" style="text-decoration:none;">Quantum Extension of the Kruskal Space-time</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(63).pdf" style="text-decoration:none;">Continuous-Domain Reinforcement Learning Using a Learned Qualitative State Representation</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(64).pdf" style="text-decoration:none;">Null infinity, the BMS group and infrared issues</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(64).pdf" style="text-decoration:none;">Autonomous Learning of High-Level States and Actions in Continuous Environments</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(65).pdf" style="text-decoration:none;">Asymptotics with a positive cosmological constant: IV. The 'no-incoming radiation' condition </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(65).pdf" style="text-decoration:none;">Building Local Safety Maps for a Wheelchair Robot using Vision and Lasers </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(66).pdf" style="text-decoration:none;">Compact binary coalescences: Constraints on waveforms</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(66).pdf" style="text-decoration:none;">Detecting Obstacles and Drop-offs using Stereo and Motion Cues for Safe Local Motion</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(67).pdf" style="text-decoration:none;">Compact binary coalescences:
-The subtle issue of angular momentum</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(67).pdf" style="text-decoration:none;">A Stereo Vision Based Mapping Algorithm for Detecting Inclines, Drop-offs, and Obstacles for Safe Local Navigation</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(68).pdf" style="text-decoration:none;">Black Hole evaporation:
-A Perspective from Loop Quantum Gravity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(68).pdf" style="text-decoration:none;">Building Safety Maps using Vision for
+Safe Local Mobile Robot Navigation</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(69).pdf" style="text-decoration:none;">Alleviating the Tension in the Cosmic Microwave Background using Planck-Scale Physics</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(69).pdf" style="text-decoration:none;">A Smooth Control Law for Graceful Motion of Differential Wheeled Mobile Robots in 2D Environment</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(70).pdf" style="text-decoration:none;">Emergence of classical behavior in the early universe</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(70).pdf" style="text-decoration:none;">Autonomous Person Pacing and Following with Model Predictive Equilibrium Point Control</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(71).pdf" style="text-decoration:none;">Properties of a recent quantum extension of the Kruskal geometry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(71).pdf" style="text-decoration:none;">Discrete-time Dynamic Modeling and Calibration of Differential-Drive Mobile Robots with Friction</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(72).pdf" style="text-decoration:none;">Isolated Horizons in 2 + 1 Gravity</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(72).pdf" style="text-decoration:none;">Robot Navigation with Model Predictive Equilibrium Point Control</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(73).pdf" style="text-decoration:none;">Dynamical Horizons: Energy, Angular Momentum, Fluxes and Balance Laws</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(74).pdf" style="text-decoration:none;">Quantum gravity, shadow states, and quantum mechanics</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(75).pdf" style="text-decoration:none;">Polymer and Fock representations for a Scalar field</a></li>                        
+ <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(73).pdf" style="text-decoration:none;">Feedback Motion Planning via Non-holonomic RRT* for Mobile Robots</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(74).pdf" style="text-decoration:none;">Graceful Navigation for Mobile Robots
+in Dynamic and Uncertain Environments</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(75).pdf" style="text-decoration:none;">Map Learning with Uninterpreted Sensors and Effectors</a></li>                        
 <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(76).pdf" style="text-decoration:none;">Mathematical structure of
 loop quantum cosmology</a></li>
 
