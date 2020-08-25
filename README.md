@@ -6,10 +6,9 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(1).pdf" style="text-decoration:none;">Loop Quantum Gravity:
-Four Recent Advances and a Dozen Frequently Asked Questions</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(1).pdf" style="text-decoration:none;">An existing, ecologically-successful genus of collectively intelligent artificial creatures</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(2).pdf" style="text-decoration:none;">MATTERS OF GRAVITY</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(2).pdf" style="text-decoration:none;">Exploiting Local Perceptual Models for Topological Map-Building </a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(3).pdf" style="text-decoration:none;">Robustness of key features of loop quantum cosmology</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(4).pdf" style="text-decoration:none;">Information is Not Lost in the Evaporation of 2-dimensional Black Holes</a></li>                              
