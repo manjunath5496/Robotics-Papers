@@ -152,59 +152,82 @@ Safe Local Mobile Robot Navigation</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(74).pdf" style="text-decoration:none;">Graceful Navigation for Mobile Robots
 in Dynamic and Uncertain Environments</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(75).pdf" style="text-decoration:none;">Map Learning with Uninterpreted Sensors and Effectors</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(76).pdf" style="text-decoration:none;">Mathematical structure of
-loop quantum cosmology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(76).pdf" style="text-decoration:none;">Developing navigation behavior through
+self-organizing distinctive state abstraction</a></li>
 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(77).pdf" style="text-decoration:none;">Non-minimally coupled scalar fields and isolated horizons</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(77).pdf" style="text-decoration:none;">Self-Organizing Distinctive State Abstraction Using Options</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(78).pdf" style="text-decoration:none;">Non-minimal couplings, quantum geometry and black hole entropy</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(78).pdf" style="text-decoration:none;">Reinforcement Learning In High-Diameter, Continuous Environments</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(79).pdf" style="text-decoration:none;">How Black Holes Grow</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(79).pdf" style="text-decoration:none;">Toward Learning the Causal Layer of the Spatial Semantic Hierarchy using SOMs</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(80).pdf" style="text-decoration:none;">Dynamical Horizons and their properties</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(80).pdf" style="text-decoration:none;">Qualitative Heterogeneous Control
+of Higher Order Systems</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(81).pdf" style="text-decoration:none;">Multipole Moments of Isolated Horizons </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(81).pdf" style="text-decoration:none;">Trajectory Generation for Dynamic Bipedal Walking through Qualitative Model Based Manifold Learning </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(82).pdf" style="text-decoration:none;">BEYOND SPACE AND TIME</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(82).pdf" style="text-decoration:none;">Task Encoding, Motion Planning and Intelligent Control using Qualitative Models</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(83).pdf" style="text-decoration:none;">The Duel: Strings versus Loops</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(83).pdf" style="text-decoration:none;">Controller Synthesis using Qualitative Models and Constraints</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(84).pdf" style="text-decoration:none;">Background Independent Quantum Gravity: A Status Report</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(84).pdf" style="text-decoration:none;">Towards a general theory of topological maps (1-60)</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(85).pdf" style="text-decoration:none;">Isolated and Dynamical Horizons and Their Applications</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(85).pdf" style="text-decoration:none;">A Logical Account of Causal and Topological Maps (1-7)</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(86).pdf" style="text-decoration:none;">The Inverted Big-Bang</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(86).pdf" style="text-decoration:none;">Towards a general theory of topological maps (1-56)</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(87).pdf" style="text-decoration:none;">Time before Time: Classifications of universes in contemporary cosmology, and how to avoid the antinomy of the beginning and eternity of the world</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(87).pdf" style="text-decoration:none;">A Logical Account of Causal and Topological Maps (1-264)</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(88).pdf" style="text-decoration:none;">MATTERS OF GRAVITY</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(88).pdf" style="text-decoration:none;">Loop-Closing and Planarity
+in Topological Map-Building</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(89).pdf" style="text-decoration:none;">Gravity and the Quantum</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(90).pdf" style="text-decoration:none;">Quantum horizons and black hole entropy: Inclusion of distortion and rotation</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(91).pdf" style="text-decoration:none;">Some Uniqueness Results for Dynamical Horizons</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(92).pdf" style="text-decoration:none;">Black hole evaporation: A paradigm</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(89).pdf" style="text-decoration:none;">Topological Mapping of Ambiguous Space:
+Combining Qualitative Biases and Metrical Information</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(90).pdf" style="text-decoration:none;">Learning the Sensorimotor Structure of the Foveated Retina</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(91).pdf" style="text-decoration:none;">Sensor Map Discovery for Developing Robots</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(92).pdf" style="text-decoration:none;">From Pixels to Policies: A Bootstrapping Agent</a></li>
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(93).pdf" style="text-decoration:none;">Semiclassical States for Constrained Systems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(93).pdf" style="text-decoration:none;">Learning Geometry from Sensorimotor Experience</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(94).pdf" style="text-decoration:none;">WAS EINSTEIN RIGHT? TESTING RELATIVITY AT THE CENTENARY</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(94).pdf" style="text-decoration:none;">Focusing Attention on
+Visual Features that Matter</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(95).pdf" style="text-decoration:none;">Causal sets and the deep structure of spacetime</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(96).pdf" style="text-decoration:none;">Quantum geometry and the Schwarzschild singularity</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(97).pdf" style="text-decoration:none;">Quantum Nature of the Big Bang</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(98).pdf" style="text-decoration:none;">Quantum Nature of the Big Bang:
-An Analytical and Numerical Investigation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(95).pdf" style="text-decoration:none;">Semantic Visual Understanding of Indoor Environments: from Structures to Opportunities for Action</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(96).pdf" style="text-decoration:none;">Real-time Indoor Scene Understanding
+using Bayesian Filtering with Motion Cues</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(97).pdf" style="text-decoration:none;">Dynamic visual understanding of the local environment for an indoor navigating robot</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(98).pdf" style="text-decoration:none;">Handling Perceptual Clutter for Robot Vision with Partial Model-Based Interpretations</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(99).pdf" style="text-decoration:none;">Gravity, Geometry and the Quantum</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(100).pdf" style="text-decoration:none;">The Issue of the Beginning in Quantum Gravity</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(101).pdf" style="text-decoration:none;">Quantum Nature of the Big Bang: Improved dynamics</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(102).pdf" style="text-decoration:none;">Mechanics of higher-dimensional black holes in asymptotically anti-de Sitter space-times</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(99).pdf" style="text-decoration:none;">On-line, incremental visual scene understanding for an indoor navigating robot</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(100).pdf" style="text-decoration:none;">A Tale of Two Architectures:
+A Dual-Citizenship Integration of Natural Language and the Cognitive Map</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(101).pdf" style="text-decoration:none;">3D Pose Estimation for Planes</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(102).pdf" style="text-decoration:none;">Ray-based Color Image Segmentation</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(103).pdf" style="text-decoration:none;">Motion Segmentation by Learning Homography Matrices from Motor Signals</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(104).pdf" style="text-decoration:none;">Object Detection Using Principal Contour Fragments</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(105).pdf" style="text-decoration:none;">Moving Object Segmentation
+Using Motor Signals</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(106).pdf" style="text-decoration:none;">Towards the Object Semantic Hierarchy</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(107).pdf" style="text-decoration:none;">Construction of the Object Semantic Hierarchy</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Papers/blob/master/robot(108).pdf" style="text-decoration:none;">Steps Towards the Object Semantic Hierarchy</a></li>
+
+
+
+
+
+
+
+
+
 
 </ul>
 
